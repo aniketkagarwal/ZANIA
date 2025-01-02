@@ -18,7 +18,7 @@ Installation
 o Python 3.9+
 o Docker (for containerized deployment)
 * Clone the Repository
-o git clone <repository-url> 
+o git clone https://github.com/aniketkagarwal/ZANIA.git 
 o cd ZANIA
 * Install Dependencies
 o pip install -r requirements.txt
